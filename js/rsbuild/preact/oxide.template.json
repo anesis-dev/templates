@@ -1,0 +1,28 @@
+{
+	"name": "preact",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": { "name": "Maksym Zhuk", "github": "oxide-cli" },
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/rsbuild/preact",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "frontend",
+	"scope": "web",
+	"technology": "preact",
+	"buildTool": "rsbuild",
+	"languages": ["javascript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Preact",
+		"description": "A modern Preact template for building web applications with RSBuild using JavaScript.",
+		"tags": ["preact", "rsbuild", "javascript", "frontend", "web"]
+	}
+}

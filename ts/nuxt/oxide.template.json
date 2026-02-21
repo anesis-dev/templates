@@ -1,5 +1,5 @@
 {
-	"name": "next",
+	"name": "nuxt",
 	"version": "0.1.0",
 	"oxideVersion": ">=0.2.0",
 	"author": {
@@ -8,19 +8,19 @@
 	},
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/oxide-cli/templates/tree/main/ts/next",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/nuxt",
 		"release": "v0.1.0"
 	},
 	"specialization": "fullstack",
 	"scope": "web",
-	"technologia": "next",
+	"technologia": "nuxt",
 	"languages": ["typescript"],
 	"official": true,
 	"type": "base",
 
 	"metadata": {
-		"displayName": "Next",
-		"description": "A modern fullstack Next.js template, ready for scalable web applications.",
-		"tags": ["next", "nextjs", "react", "typescript", "fullstack", "ssr", "web"]
+		"displayName": "Nuxt",
+		"description": "A modern fullstack Nuxt template, ready for scalable web applications.",
+		"tags": ["nuxt", "nuxt3", "vue", "typescript", "fullstack", "ssr", "web"]
 	}
 }

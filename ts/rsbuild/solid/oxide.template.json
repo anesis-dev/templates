@@ -1,0 +1,38 @@
+{
+	"name": "solid",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/rsbuild/solid",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technology": "solid",
+	"buildTool": "rsbuild",
+	"languages": ["typescript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Solid",
+		"description": "A modern Solid template for building desktop or fullstack applications with TypeScript using RSBuild.",
+		"tags": [
+			"solid",
+			"typescript",
+			"desktop",
+			"fullstack",
+			"rsbuild",
+			"frontend"
+		]
+	}
+}

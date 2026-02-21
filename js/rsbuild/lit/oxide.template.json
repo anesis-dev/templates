@@ -1,0 +1,28 @@
+{
+	"name": "lit",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": { "name": "Maksym Zhuk", "github": "oxide-cli" },
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/rsbuild/lit",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "frontend",
+	"scope": "web",
+	"technology": "lit",
+	"buildTool": "rsbuild",
+	"languages": ["javascript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Lit",
+		"description": "A modern Lit template for building web applications with RSBuild using JavaScript.",
+		"tags": ["lit", "rsbuild", "javascript", "frontend", "web"]
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"name": "electron-react",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/farm/electron/react",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technology": ["electron", " react"],
+	"buildTool": "farm",
+	"languages": ["typescript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Electron + React",
+		"description": "A modern Electron template with React for building cross-platform desktop applications.",
+		"tags": [
+			"electron",
+			"react",
+			"typescript",
+			"desktop",
+			"cross-platform",
+			"frontend"
+		]
+	}
+}

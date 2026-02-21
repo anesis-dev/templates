@@ -1,0 +1,38 @@
+{
+	"name": "svelte",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/rsbuild/svelte",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technology": "svelte",
+	"buildTool": "rsbuild",
+	"languages": ["typescript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Svelte",
+		"description": "A modern Svelte template for building desktop or fullstack applications with TypeScript using RSBuild.",
+		"tags": [
+			"svelte",
+			"typescript",
+			"desktop",
+			"fullstack",
+			"rsbuild",
+			"frontend"
+		]
+	}
+}

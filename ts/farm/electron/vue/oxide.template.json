@@ -1,0 +1,38 @@
+{
+	"name": "electron-vue",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/farm/electron/vue",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "fullstack",
+	"scope": "desktop",
+	"technology": ["electron", " vue"],
+	"buildTool": "farm",
+	"languages": ["typescript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Electron + Vue",
+		"description": "A modern Electron template with Vue for building cross-platform desktop applications.",
+		"tags": [
+			"electron",
+			"vue",
+			"typescript",
+			"desktop",
+			"cross-platform",
+			"frontend"
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "svelte",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/ts/farm/svelte",
+		"release": "v0.1.0"
+	},
+
+	"specialization": "frontend",
+	"scope": "web",
+	"technology": "svelte",
+	"buildTool": "farm",
+	"languages": ["typescript"],
+
+	"official": true,
+	"type": "base",
+
+	"metadata": {
+		"displayName": "Svelte",
+		"description": "A modern Svelte template for building fast web applications using Farm build tool.",
+		"tags": ["svelte", "typescript", "frontend", "web", "farm"]
+	}
+}
