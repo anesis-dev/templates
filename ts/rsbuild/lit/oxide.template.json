@@ -1,38 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "lit",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/lit",
-    "release": "v0.1.0"
-  },
-  "specialization": "frontend",
-  "scope": "web",
-  "technology": "lit",
-  "buildTool": "rsbuild",
-  "languages": [
-    "typescript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "Lit",
-    "description": "A modern Lit template for building fast and lightweight web components.",
-    "tags": [
-      "lit",
-      "web-components",
-      "typescript",
-      "frontend",
-      "web"
-    ]
-  }
-=======
 	"name": "lit-rsbuild-ts",
 	"version": "0.2.0",
 	"oxideVersion": ">=0.2.0",
@@ -57,5 +23,4 @@
 		"description": "A modern Lit template for building fast and lightweight web components.",
 		"tags": ["lit", "web-components", "typescript", "frontend", "web"]
 	}
->>>>>>> ddb5b3f (update the name field in oxide.template.json)
 }

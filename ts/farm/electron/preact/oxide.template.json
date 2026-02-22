@@ -1,42 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "electron-preact",
-  "version": "0.2.0",
-  "oxideVersion": ">=0.2.0",
-  "author": {
-    "name": "Maksym Zhuk",
-    "github": "oxide-cli"
-  },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/farm/electron/preact",
-    "release": "v0.1.0"
-  },
-  "specialization": "fullstack",
-  "scope": "desktop",
-  "technology": [
-    "electron",
-    " preact"
-  ],
-  "buildTool": "farm",
-  "languages": [
-    "typescript"
-  ],
-  "official": true,
-  "type": "base",
-  "metadata": {
-    "displayName": "Electron + Preact",
-    "description": "A modern Electron template with Preact for building cross-platform desktop applications.",
-    "tags": [
-      "electron",
-      "preact",
-      "typescript",
-      "desktop",
-      "cross-platform",
-      "frontend"
-    ]
-  }
-=======
 	"name": "electron-preact-farm",
 	"version": "0.2.0",
 	"oxideVersion": ">=0.2.0",
@@ -68,5 +30,4 @@
 			"frontend"
 		]
 	}
->>>>>>> ddb5b3f (update the name field in oxide.template.json)
 }
