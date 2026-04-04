@@ -1,0 +1,27 @@
+{
+	"$schema": "https://oxide-server.onrender.com/schema/oxide.template.schema.json",
+	"name": "axum",
+	"version": "0.1.0",
+	"oxideVersion": ">=0.2.0",
+	"author": {
+		"name": "Maksym Zhuk",
+		"github": "oxide-cli"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/oxide-cli/templates/tree/main/rust/axum",
+		"release": "v0.1.0"
+	},
+	"specialization": "backend",
+	"scope": "web",
+	"technologies": ["axum", "tokio", "tower-http"],
+	"languages": ["rust"],
+	"official": true,
+	"type": "base",
+	"buildTool": "cargo",
+	"metadata": {
+		"displayName": "Axum",
+		"description": "A minimal base template for starting a backend API with Rust, Axum, Tokio, and basic CORS setup.",
+		"tags": ["rust", "axum", "tokio", "backend", "starter", "api", "cors"]
+	}
+}
