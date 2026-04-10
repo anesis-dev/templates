@@ -1,7 +1,10 @@
 import { Module } from '@nestjs/common';
+// oxide:top-imports
 
 @Module({
-	imports: [],
+	imports: [
+		// oxide:module-imports
+	],
 	controllers: [],
 	providers: [],
 })

@@ -1,8 +1,8 @@
 {
 	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
 	"name": "nest-fastify",
-	"version": "0.2.0",
-	"oxideVersion": ">=0.2.0",
+	"version": "0.3.0",
+	"oxideVersion": ">=0.5.0",
 	"author": {
 		"name": "Maksym Zhuk",
 		"github": "oxide-cli"
