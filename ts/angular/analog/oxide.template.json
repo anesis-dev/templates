@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "github",
-    "url": "https://github.com/oxide-cli/templates/tree/main/ts/analog",
+    "url": "https://github.com/oxide-cli/templates/tree/main/ts/angular/analog",
     "release": "v0.1.0"
   },
   "specialization": "frontend",
