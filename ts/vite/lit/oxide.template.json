@@ -1,7 +1,7 @@
 {
 	"$schema": "https://oxide-server-maksym-zhuk8433-w6h7le9s.leapcell.dev/schema/oxide.template.schema.json",
 	"name": "lit-vite-ts",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"oxideVersion": ">=0.2.0",
 	"author": {
 		"name": "Maksym Zhuk",
