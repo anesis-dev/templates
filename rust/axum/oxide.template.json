@@ -1,8 +1,8 @@
 {
 	"$schema": "https://oxide-server.onrender.com/schema/oxide.template.schema.json",
 	"name": "axum",
-	"version": "0.1.0",
-	"oxideVersion": ">=0.2.0",
+	"version": "0.1.1",
+	"oxideVersion": ">=0.9.0",
 	"author": {
 		"name": "Maksym Zhuk",
 		"github": "oxide-cli"
@@ -16,7 +16,6 @@
 	"scope": "web",
 	"technologies": ["axum", "tokio", "tower-http"],
 	"languages": ["rust"],
-	"official": true,
 	"type": "base",
 	"buildTool": "cargo",
 	"metadata": {
