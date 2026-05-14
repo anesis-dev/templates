@@ -1,7 +1,7 @@
 {
 	"$schema": "https://anesis-server.onrender.com/schema/anesis.template.schema.json",
 	"name": "tauri-svelte-farm",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"anesisVersion": ">=0.9.0",
 	"author": {
 		"name": "Maksym Zhuk",
